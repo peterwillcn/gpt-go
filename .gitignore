@@ -80,3 +80,5 @@ fabric.properties
 .idea/*
 
 chatgpt
+
+example/vendor
